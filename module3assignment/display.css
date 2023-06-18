@@ -1,0 +1,38 @@
+#header-nav {
+    background-color: cornflowerblue;
+    border-radius: 0;
+    border: 0 ;
+}
+
+#inside{
+    background-color: gray;
+}
+
+a{ 
+    text-decoration: none;
+}
+
+
+h2{
+    color: brown;  }
+
+ h1 , h2{
+    text-align: center;
+}
+body
+{
+    background-color: azure;
+}
+.navbar-toggle {
+    position: relative;
+    float: right;
+    margin-top: 10px;
+    background-color: transparent;
+    background-image: none;
+    border-radius: 5px;
+}
+
+#colnavbar{
+    color: green;
+
+}
